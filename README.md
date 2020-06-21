@@ -13,16 +13,16 @@ Mark a book as having been read and leave a review
 
 You should ensure that the following things are included:
 
-React state 
+React state
 Utilisation of props
 Event handling
 README instructions for starting the application locally
-The UI and UX of the application is entirely up to you 
+The UI and UX of the application is entirely up to you
 Connection to a backend API that provides functions for searching and managing your own personal reading list as per above
 A MySQL database storing the required data
 Backend and Frontend GitHub repositories
 
-NOTE: For the searching functionality we recommend utilising the Google Books API 
+NOTE: For the searching functionality we recommend utilising the Google Books API
 
 https://developers.google.com/books/docs/overview
 https://www.npmjs.com/package/google-books-search
@@ -37,6 +37,8 @@ Deployment to a live site
 
 #### Submitting your work
 
-Please submit your work by sharing the GitHub links to any of the associated repositories 
+Please submit your work by sharing the GitHub links to any of the associated repositories
 And/Or
 Links to live site
+
+src: https://docs.google.com/document/d/1D_D8WH-NBwgwUYoraOXOkwAxc5BMJfToptM8oUqMFsY/edit
